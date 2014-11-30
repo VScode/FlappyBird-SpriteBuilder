@@ -164,8 +164,9 @@
 		</dict>
 	</dict>
 	<key>versionStr</key>
-	<string>Version: 1.2.0
-GitHub: 603331c974
+	<string>revision : 71571752ab
+sku : default
+version : 1.3.6
 </string>
 </dict>
 </plist>
